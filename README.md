@@ -32,6 +32,9 @@ Text Domain: twenty-fifteen-child
 */
 ```
 
+## Screenshot
+
+The screenshot should not be larger than 1200px by 900px. See [Theme Review](https://make.wordpress.org/themes/handbook/review/required/#screenshot) details.
 ## Installation
 
 Download the package and (S)FTP it to your server. Make sure you add the files to a folder with the child theme name.
