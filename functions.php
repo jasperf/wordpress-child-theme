@@ -1,4 +1,18 @@
 <?php
+
+/*   
+Theme Name: Name
+Theme URI: the-theme's-homepage
+Description: a-brief-description
+Author: your-name
+Author URI: your-URI
+Template: use-this-to-define-a-parent-theme--optional
+Version: a-number--optional
+.
+General comments/License Statement if any.
+.
+*/
+
 function my_theme_enqueue_styles() {
 
     $parent_style = 'parent-style'; // This is 'theme-style' for the Theme Name theme.
