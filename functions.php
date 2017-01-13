@@ -10,13 +10,13 @@ Template: use-this-to-define-a-parent-theme--optional
 Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: multo purpose, responsive, black, white
+Tags: multi purpose, responsive, black, white
 Text Domain: ianua
 */
 
 function my_theme_enqueue_styles() {
 
-    $parent_style = 'parent-style'; // This is 'theme-style' for the Theme Name theme.
+    $parent_style = 'parent-style'; // This is 'ianua-style' for the Ianua theme.
 
     wp_enqueue_style( $parent_style, get_template_directory_uri() . '/style.css' );
     wp_enqueue_style( 'child-style',
