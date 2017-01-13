@@ -8,9 +8,10 @@ Author: your-name
 Author URI: your-URI
 Template: use-this-to-define-a-parent-theme--optional
 Version: a-number--optional
-.
-General comments/License Statement if any.
-.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: any, tags, that, tickle, your, imagination
+Text Domain: theme-name
 */
 
 function my_theme_enqueue_styles() {
