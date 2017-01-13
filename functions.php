@@ -1,11 +1,11 @@
 <?php
 
 /*   
-Theme Name: Name
-Theme URI: the-theme's-homepage
-Description: a-brief-description
-Author: your-name
-Author URI: your-URI
+Theme Name: Parent Theme Child Theme
+Theme URI: https://imagewize.com
+Description: General Child Theme 
+Author: Jasper Frumau
+Author URI: https://represent.io/jasper
 Template: use-this-to-define-a-parent-theme--optional
 Version: a-number--optional
 License: GNU General Public License v2 or later
