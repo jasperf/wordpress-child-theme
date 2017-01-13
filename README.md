@@ -10,6 +10,7 @@ And Konstantin had this information from the all knowing Google itself.
 
 Tips followed at [Stack Exhange thread](http://wordpress.stackexchange.com/questions/163301/versioning-import-of-parent-themes-style-css) and [WordPress Codex](https://codex.wordpress.org/Child_Themes) 
 
+What is in use now is WordPress stylesheet enqueueing. This piece of code is added to the functions.php .
 
 ## Example CSS Header
 
