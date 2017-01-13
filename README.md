@@ -34,7 +34,7 @@ Text Domain: twenty-fifteen-child
 
 ## Screenshot
 
-The screenshot should not be larger than 1200px by 900px. See [Theme Review](https://make.wordpress.org/themes/handbook/review/required/#screenshot) details. Also make sure it is at this ratio more or less and at least portrait size to cover the thumbnail area under appearance > themes
+The screenshot should not be larger than 1200px by 900px. See [Theme Review](https://make.wordpress.org/themes/handbook/review/required/#screenshot) details. Also make sure it is at this ratio more or less and at least portrait size to cover the thumbnail area under appearance > themes . Most WordPress default themes have screenshots of 880 x 660 pixels.
 ## Installation
 
 Download the package and (S)FTP it to your server. Make sure you add the files to a folder with the child theme name.
