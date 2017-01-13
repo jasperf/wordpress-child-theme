@@ -1,19 +1,5 @@
 <?php
 
-/*   
-Theme Name: Ianua Child Theme
-Theme URI: https://ianua.imagewize.com
-Description: Ianua Child Theme 
-Author: Jasper Frumau
-Author URI: https://represent.io/jasper
-Template: use-this-to-define-a-parent-theme--optional
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: multi purpose, responsive, black, white
-Text Domain: ianua
-*/
-
 function my_theme_enqueue_styles() {
 
     $parent_style = 'parent-style'; // This is 'ianua-style' for the Ianua theme.
