@@ -14,7 +14,7 @@ Tips followed at [Stack Exhange thread](http://wordpress.stackexchange.com/quest
 ## Example Header
 
 
-Here is the child theme header code you would use for Twenty Fifteen inside style.css
+Here is the child theme header code you would use for Twenty Fifteen inside the child theme's style.css
 
 ```
 /*
