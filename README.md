@@ -39,4 +39,9 @@ Or better yet use git to grab the files:
 
 ```git clone --depth=1 git@github.com:jasperf/wordpress-child-theme.git child-theme && rm -rf child-theme/.git```
 
+Example:
+
+```git clone --depth=1 git@github.com:jasperf/wordpress-child-theme.git coursenip-child && rm -rf coursenip-child/.git```
+
+
 Git will add the files to the folder you indicated. Do not forget to use the proper path if you are not inside the themes folder already.
