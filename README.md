@@ -31,3 +31,10 @@ Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-
 Text Domain: twenty-fifteen-child
 */
 ```
+
+## Installation
+
+Download the package and (S)FTP it to your server. Or better yet use git to grab the files:
+```
+git clone --depth=1 git@github.com:jasperf/wordpress-child-theme.git path/to/themes/ && rm -rf path/to/themes/.git
+```
