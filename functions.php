@@ -1,17 +1,17 @@
 <?php
 
 /*   
-Theme Name: Parent Theme Child Theme
-Theme URI: https://imagewize.com
-Description: General Child Theme 
+Theme Name: Ianua Child Theme
+Theme URI: https://ianua.imagewize.com
+Description: Ianua Child Theme 
 Author: Jasper Frumau
 Author URI: https://represent.io/jasper
 Template: use-this-to-define-a-parent-theme--optional
-Version: a-number--optional
+Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: any, tags, that, tickle, your, imagination
-Text Domain: theme-name
+Tags: multo purpose, responsive, black, white
+Text Domain: ianua
 */
 
 function my_theme_enqueue_styles() {
